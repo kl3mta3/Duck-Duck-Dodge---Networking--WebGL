@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - FoodPellet
+  - PlayerFoodPellet
+  - BlueScoreBox
+  - RedScoreBox
+  - ScoreBoard
+  - RedPlayer
+  - BluePlayer
+  - GreenPlayer
+  - YellowPlayer
+  - Wall
+  - StartScreen
+  - ScoreBars
+  - Bars
+  - TimeKeeper
+  - EndScreen
+  - BorderWall
+  - LoadScreen
+  - ScoreKeeper
+  - Canvas
+  - RunnerHandler
+  - MainScreen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - FoodPellet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - POLARIS RAYCAST
+  - POLARIS SPLINE
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
