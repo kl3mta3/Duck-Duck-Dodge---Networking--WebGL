@@ -361,3 +361,17 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+Assets/Materials/Textures/tree_bark_1a_graph_0/tree_bark_1a_normal.tga
+Assets/Materials/Textures/tree_bark_1a.sbsar
+Assets/Materials/Textures/tree_bark_1a_graph_0/tree_bark_1a_ambientocclusion.tga
+Assets/Materials/Textures/tree_bark_1a_graph_0/tree_bark_1a_basecolor.tga
+Assets/Materials/Textures/tree_bark_1a_graph_0/tree_bark_1a_graph_0_material.mat
+Assets/Materials/Textures/tree_bark_1a_graph_0/tree_bark_1a_height.tga
+Assets/Materials/Textures/tree_bark_1a_graph_0/tree_bark_1a_metallic.tga
+Library/ArtifactDB
+Library/PlayerDataCache/Win64/Data/sharedassets0.assets
+Library/PlayerDataCache/Win64/Data/sharedassets0.assets.resS
+Temp/FSTimeGet-842384f55a2239143a553699510494be
+Temp/FusionILWeaverConfigPath.txt
+Temp/UnityLockfile
+Temp/workerlic
